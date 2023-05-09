@@ -1,0 +1,10 @@
+
+
+Quel a été le meilleur mois pour les ventes?
+Quel été le gain du mois ?
+Quelle ville a vendu le plus de produits?
+Quel magasin a vendu le plus de produits?
+À quelle heure devrions-nous afficher des avis publicitaires pour maximiser la probabilité de l'achat de produits par le client?
+Quels produits sont le plus souvent vendus ensemble?
+Quel produit a été vendu le plus ?
+Pourquoi pensez-vous qu'il s'est vendu le plus?
